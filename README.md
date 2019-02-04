@@ -5,7 +5,9 @@ A project based learning activity for people who are getting started with Git an
 
 You can play the game [here](https://githubschool.github.io/github-games/)
 
-
+```suggestion
+You can play the game [here](https://DenisMenshikov.github.io/github-games/)
+```
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
 This fun open source game was cloned from: [jakesgordon/javascript-tetris](https://github.com/jakesgordon/javascript-tetris)
